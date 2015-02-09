@@ -1,0 +1,1 @@
+install.packages(c("rpart","chron","Hmisc","Design","Matrix","stringr","lme4","coda","e1071","zipfR","ape","languageR","multcomp","contrast","shiny"),repos="http://cran.csie.ntu.edu.tw/")
